@@ -47,10 +47,10 @@ At Shera, I take on a purposeful function to bridge data science and quality con
 - **AI** | **Machine Learning** | **Statistical Analysis** | **Data Visualization** | **Web Development**
 
 ### Focus Areas
-- **Quality Control** | **Process Optimization** | **Anomaly Detection** | **Predictive Modeling**
+- **Quality Control**| **Computer Vision** | **Process Optimization** | **Anomaly Detection** | **Predictive Modeling** | **Large Language Model**
 
 ## 📫 Let's Connect!
-Feel free to reach out for collaborations or discussions in data science, AI, and quality control!
+Feel free to reach out for collaborations or discussions in data science, AI!
 
 - **Email:** [Jiranuwat_t@shera.com](mailto:Jiranuwat_t@shera.com)
 - **LinkedIn:** [Jiranuwat Tima](https://www.linkedin.com/in/jiranuwat-tima-b3166428a)
