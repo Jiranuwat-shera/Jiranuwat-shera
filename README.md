@@ -31,17 +31,28 @@ At Shera, I take on a purposeful function to bridge data science and quality con
 - Use AI-enhanced visualization tools to convey insights clearly to both technical and non-technical audiences.
 
 ## 💼 Skills & Technologies
-- **Languages:** Python, SQL
-- **Tools:** AI, Machine Learning, Statistical Analysis, Data Visualization
-- **Focus Areas:** Quality Control, Process Optimization, Anomaly Detection, Predictive Modeling
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Tools
+- **AI** | **Machine Learning** | **Statistical Analysis** | **Data Visualization** | **Web Development**
+
+### Focus Areas
+- **Quality Control** | **Process Optimization** | **Anomaly Detection** | **Predictive Modeling**
 
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations or discussions in data science, AI, and quality control!
 
 - **Email:** [Jiranuwat_t@shera.com](mailto:Jiranuwat_t@shera.com)
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/jiranuwat-tima-b3166428a)
+- **LinkedIn:** [Jiranuwat Tima](https://www.linkedin.com/in/jiranuwat-tima-b3166428a)
 
 ---
-
-Thanks for visiting my profile! Looking forward to connecting and sharing insights in data science and quality control.
-
