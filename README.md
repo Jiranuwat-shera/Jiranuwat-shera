@@ -1,4 +1,4 @@
-# Hi there, I'm [Earth!] 👋
+# Hi there, I'm Earth! 👋
 
 I'm a **Data Science Engineer** at Shera Public Company Limited, where I specialize in transforming raw data into actionable insights that ensure top-notch product quality. My work combines advanced data analytics, machine learning, and AI-driven solutions to optimize quality control processes and improve manufacturing standards.
 
