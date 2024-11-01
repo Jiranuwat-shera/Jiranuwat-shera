@@ -1,4 +1,4 @@
-# Hi there, I'm [Earth! 👋
+# Hi there, I'm [Earth!] 👋
 
 I'm a **Data Science Engineer** at Shera Public Company Limited, where I specialize in transforming raw data into actionable insights that ensure top-notch product quality. My work combines advanced data analytics, machine learning, and AI-driven solutions to optimize quality control processes and improve manufacturing standards.
 
@@ -38,8 +38,8 @@ At Shera, I take on a purposeful function to bridge data science and quality con
 ## 📫 Let's Connect!
 Feel free to reach out for collaborations or discussions in data science, AI, and quality control!
 
-- **Email:** [you@example.com](mailto:you@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email:** [Jiranuwat_t@shera.com](mailto:Jiranuwat_t@shera.com)
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/jiranuwat-tima-b3166428a)
 
 ---
 
